@@ -6,4 +6,8 @@ Customizable Virtual Chatbot using IBM Watson Speech Recognization AR Foundation
 
 Assets licensce https://unity3d.com/legal/as_terms
 
-https://user-images.githubusercontent.com/32412602/109595187-04ffc280-7ae2-11eb-86b4-0306dbfb9f8f.mp4
+
+AR Android application
+
+
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/32412602/109595342-527c2f80-7ae2-11eb-8607-dee23057a30e.gif)
